@@ -1,5 +1,6 @@
 
-/** I am Learning Flutter and this Code is Just to Reuse in future.. i am saving it here ... */
+/** I am Learning Flutter and this Code is Just to Reuse in future.. i am saving it here ...
+And also half of this Code is also Copy paste so.. hehehehe*/
 
 import 'package:flutter/material.dart';
 import 'package:signtry/psychicNew.dart';
